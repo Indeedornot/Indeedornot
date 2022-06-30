@@ -15,16 +15,20 @@ I am a middle school studen with a passion for automation and backend developmen
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+C#                       4 hrs 9 mins        ███████████████████████░░   92.48% 
+Python                   19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   7.18% 
+Csproj                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.19% 
+XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.14%
 
 🔥 Editors: 
-No Activity Tracked This Week
+Rider                    4 hrs 10 mins       ███████████████████████░░   92.82% 
+PyCharm                  19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   7.18%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  4 hrs 29 mins       █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 29/06/2022 18:51:29 UTC
+ Last Updated on 30/06/2022 18:51:31 UTC
 <!--END_SECTION:waka-->
