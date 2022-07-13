@@ -15,16 +15,16 @@ I am a middle school studen with a passion for automation and backend developmen
 
 ```text
 💬 Programming Languages: 
-C#                       0 secs              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-Rider                    0 secs              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  0 secs              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
 
- Last Updated on 12/07/2022 18:48:40 UTC
+ Last Updated on 13/07/2022 18:45:26 UTC
 <!--END_SECTION:waka-->
