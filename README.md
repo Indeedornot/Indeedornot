@@ -7,7 +7,7 @@ I am a middle school studen with a passion for automation and backend developmen
 **What've I been up to this week?** 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-323%20hrs%2034%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-322%20hrs%2054%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -29,5 +29,5 @@ Windows                  2 hrs 20 mins       ███████████�
 ```
 
 
- Last Updated on 24/08/2022 18:52:30 UTC
+ Last Updated on 25/08/2022 18:44:49 UTC
 <!--END_SECTION:waka-->
