@@ -4,8 +4,6 @@
 
 I am a middle school studen with a passion for automation and backend development, and finding ways to improve my surroundings using my skills!
 
-**What've I been up to this week?** 
-
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-872%20hrs%2014%20mins-blue)
 
