@@ -26,6 +26,9 @@ I am a middle school student with a passion for creating things I can use to imp
 <a hef="https://www.sqlite.org/index.html" target="_blank">
   <img src="https://raw.githubusercontent.com/Indeedornot/README_icons/3454466b1b34e42f17c5104d222219c9485129b7/language_and_tools/square/sqlite/sqlite.svg" align="left" alt="Sqlite" height="42px"/>
 </a>
+
+<br/>
+<br/>
 <br/>
 
 ### 💻 What I've been up to this week
