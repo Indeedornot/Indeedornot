@@ -35,9 +35,9 @@ I am a middle school student with a passion for creating things I can use to imp
 <!--START_SECTION:waka-->
 
 ```text
-C#               11 hrs 33 mins  >>>>>>>>>>>>>>-----------   56.76 %
-XAML             3 hrs 36 mins   >>>>---------------------   17.73 %
-Other            3 hrs 25 mins   >>>>---------------------   16.79 %
+C#               10 hrs 48 mins  >>>>>>>>>>>>>------------   53.21 %
+XAML             5 hrs 25 mins   >>>>>>>------------------   26.72 %
+Other            2 hrs 13 mins   >>>----------------------   10.99 %
 ```
 
 <!--END_SECTION:waka-->
