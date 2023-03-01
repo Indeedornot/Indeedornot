@@ -35,8 +35,8 @@ I am a middle school student with a passion for creating things I can use to imp
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript      6 hrs 22 mins   >>>>>>>>>----------------   36.77 %
-Other           2 hrs 27 mins   >>>>---------------------   14.13 %
+TypeScript      4 hrs 32 mins   >>>>>>>------------------   29.45 %
+Other           2 hrs 12 mins   >>>>---------------------   14.36 %
 ```
 
 <!--END_SECTION:waka-->
