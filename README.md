@@ -14,6 +14,9 @@ I am a middle school student with a passion for creating things I can use to imp
 <a href="https://www.typescriptlang.org/" target="_blank">
   <img align="left" alt="Typescirpt" height ="42px" src="https://raw.githubusercontent.com/Indeedornot/README_icons/4d06112f039d3d302017842f696129642a58f6a5/language_and_tools/square/typescript/typescript.svg">
 </a>
+<a hef="https://reactjs.org/" target="_blank">
+  <img src="https://raw.githubusercontent.com/Indeedornot/README_icons/3454466b1b34e42f17c5104d222219c9485129b7/language_and_tools/square/react/react.svg" align="left" alt="React" height="42px"/>
+</a>
 <a href="https://svelte.dev/" target="_blank">
   <img align="left" alt="Svelte" height="42px" src="https://raw.githubusercontent.com/Indeedornot/README_icons/4d06112f039d3d302017842f696129642a58f6a5/language_and_tools/square/svelte/svelte.svg">
 </a>
