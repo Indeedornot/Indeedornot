@@ -38,9 +38,9 @@ I am a middle school student with a passion for creating things I can use to imp
 <!--START_SECTION:waka-->
 
 ```text
-Blazor       1 hr 53 mins    >>>>>>>>-----------------   31.37 %
-JSON         1 hr 9 mins     >>>>>--------------------   19.26 %
-Other        47 mins         >>>----------------------   13.11 %
+JSON         1 hr 29 mins    >>>>>>>------------------   29.87 %
+Blazor       56 mins         >>>>>--------------------   18.70 %
+Other        47 mins         >>>>---------------------   15.87 %
 ```
 
 <!--END_SECTION:waka-->
