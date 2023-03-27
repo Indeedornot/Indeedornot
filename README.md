@@ -38,10 +38,10 @@ I am a middle school student with a passion for creating things I can use to imp
 <!--START_SECTION:waka-->
 
 ```text
-C#             8 hrs 55 mins   >>>>>>>>>>>>>>>>---------   64.36 %
-Blazor         3 hrs 1 min     >>>>>--------------------   21.82 %
-CSHTML         1 hr 26 mins    >>>----------------------   10.40 %
-Other          14 mins         -------------------------   01.77 %
+C#             7 hrs 13 mins   >>>>>>>>>>>>>>>>---------   65.89 %
+Blazor         3 hrs           >>>>>>>------------------   27.46 %
+CSHTML         25 mins         >------------------------   03.91 %
+Other          5 mins          -------------------------   00.79 %
 ```
 
 <!--END_SECTION:waka-->
