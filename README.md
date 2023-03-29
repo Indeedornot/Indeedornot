@@ -1,6 +1,6 @@
 ## Hey 👋, I'm Indeed!
 
-I am a middle school student with a passion for creating things I can use to improve my life!
+I am a high school senior with a passion for creating things I can use to improve my life!
 
 <br/>
 
