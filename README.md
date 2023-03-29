@@ -8,6 +8,12 @@ I am a middle school student with a passion for creating things I can use to imp
 <a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank"> 
   <img src="https://raw.githubusercontent.com/Indeedornot/README_icons/4d06112f039d3d302017842f696129642a58f6a5/language_and_tools/square/c%23/c%23.svg" align="left" alt="csharp" height='42px'/> 
 </a>
+<a href="https://learn.microsoft.com/en-us/aspnet/core/?view=aspnetcore-7.0" target="_blank">
+  <image src="https://raw.githubusercontent.com/Indeedornot/README_icons/2cc2c6a6d95f2142441267c6f44467ed1c9224cf/language_and_tools/square/asp.net-core/asp.net-core.svg" width="42px" height="42px" align="left" />
+</a>
+<a href="https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor" target="_blank"> 
+  <image src="https://raw.githubusercontent.com/Indeedornot/README_icons/2cc2c6a6d95f2142441267c6f44467ed1c9224cf/language_and_tools/square/blazor/blazor.svg" width="76px" height="42px" align="left" />
+</a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
   <img align="left" alt="JavaScript" height ="42px"  src="https://raw.githubusercontent.com/Indeedornot/README_icons/4d06112f039d3d302017842f696129642a58f6a5/language_and_tools/square/javascript/javascript.svg"> 
 </a>
