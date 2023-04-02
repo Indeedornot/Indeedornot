@@ -44,9 +44,9 @@ I am a high school senior with a passion for creating things I can use to improv
 <!--START_SECTION:waka-->
 
 ```text
-Blazor           7 hrs 44 mins   >>>>>>>>>>>>>>>>---------   62.59 %
-C#               3 hrs 35 mins   >>>>>>>------------------   29.04 %
-Other            28 mins         >------------------------   03.88 %
+Blazor           5 hrs 58 mins   >>>>>>>>>>>>>>-----------   57.52 %
+C#               3 hrs 27 mins   >>>>>>>>-----------------   33.31 %
+Other            28 mins         >------------------------   04.63 %
 ```
 
 <!--END_SECTION:waka-->
