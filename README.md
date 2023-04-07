@@ -44,7 +44,7 @@ I am a high school senior with a passion for creating things I can use to improv
 <!--START_SECTION:waka-->
 
 ```text
-Other            1 hr 40 mins    >>>>>>>>>>>>>>>>>>-------   73.91 %
+Other   2 hrs 36 mins   >>>>>>>>>>>>>>>>>>>>>>>>>   100.00 %
 ```
 
 <!--END_SECTION:waka-->
