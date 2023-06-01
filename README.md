@@ -44,7 +44,8 @@ I am a high school senior with a passion for creating things I can use to improv
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   1 min           >>>>>>>>>>>>>>>>>>>>>>>>>   100.00 %
+TypeScript   1 min           >>>>>>>>>>>>>>>>>>>>>>>--   92.78 %
+Other        0 secs          >>-----------------------   07.22 %
 ```
 
 <!--END_SECTION:waka-->
