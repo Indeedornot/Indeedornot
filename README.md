@@ -43,7 +43,7 @@ I am a high school senior with a passion for creating things I can use to improv
 ### 💻 What I've been up to this week
 <!--START_SECTION:waka-->
 
-```text
+```txt
 TypeScript   1 min           >>>>>>>>>>>>>>>>>>>>>>>--   92.78 %
 Other        0 secs          >>-----------------------   07.22 %
 ```
