@@ -44,8 +44,7 @@ I am a Highschool graduate with a passion for creating new things that could imp
 <!--START_SECTION:waka-->
 
 ```txt
-Blazor   0 secs          >>>>>>>>>>>>>>-----------   56.69 %
-CSS      0 secs          >>>>>>>>>>>--------------   43.31 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
