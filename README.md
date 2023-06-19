@@ -44,7 +44,11 @@ I am a Highschool graduate with a passion for creating new things that could imp
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+JSON             23 mins         >>>>>>>>>>>>>------------   50.41 %
+Prettier File    8 mins          >>>>>--------------------   18.07 %
+HTML             6 mins          >>>----------------------   13.36 %
+TypeScript       5 mins          >>>----------------------   11.08 %
+TSConfig         1 min           >------------------------   02.72 %
 ```
 
 <!--END_SECTION:waka-->
