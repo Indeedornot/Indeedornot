@@ -44,11 +44,11 @@ I am a Highschool graduate with a passion for creating new things that could imp
 <!--START_SECTION:waka-->
 
 ```txt
-C#                9 hrs 20 mins   >>>>>>>>>>>>>>>>>>>>>----   84.93 %
-Other             38 mins         >------------------------   05.82 %
-CSS               36 mins         >------------------------   05.53 %
-PowerShell        7 mins          -------------------------   01.13 %
-GitIgnore file    7 mins          -------------------------   01.08 %
+C#                 6 hrs 11 mins   >>>>>>>>>>>>>>-----------   54.00 %
+CSS                2 hrs 49 mins   >>>>>>-------------------   24.65 %
+TypeScript         52 mins         >>-----------------------   07.59 %
+Other              45 mins         >>-----------------------   06.59 %
+HTML               14 mins         >------------------------   02.13 %
 ```
 
 <!--END_SECTION:waka-->
