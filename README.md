@@ -44,11 +44,11 @@ I am a Highschool graduate with a passion for creating new things that could imp
 <!--START_SECTION:waka-->
 
 ```txt
-Vue.js       9 hrs 57 mins   >>>>>>>>>>>>>>>>---------   62.05 %
-TypeScript   5 hrs 10 mins   >>>>>>>>-----------------   32.21 %
-PHP          23 mins         >------------------------   02.40 %
-SCSS         11 mins         -------------------------   01.23 %
-JSON         11 mins         -------------------------   01.16 %
+Vue.js       7 hrs 11 mins   >>>>>>>>>>>>>>>>>--------   68.42 %
+TypeScript   2 hrs 25 mins   >>>>>>-------------------   23.06 %
+PHP          23 mins         >------------------------   03.66 %
+JSON         11 mins         -------------------------   01.76 %
+SCSS         10 mins         -------------------------   01.72 %
 ```
 
 <!--END_SECTION:waka-->
