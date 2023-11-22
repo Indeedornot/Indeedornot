@@ -44,11 +44,11 @@ I am a Highschool graduate with a passion for creating new things that could imp
 <!--START_SECTION:waka-->
 
 ```txt
-Svelte       5 hrs 59 mins   >>>>>>>>>>---------------   41.11 %
-TypeScript   2 hrs 51 mins   >>>>>--------------------   19.57 %
-PHP          1 hr 29 mins    >>>----------------------   10.20 %
-JSON         1 hr 22 mins    >>-----------------------   09.48 %
-Docker       49 mins         >------------------------   05.60 %
+Svelte       3 hrs 46 mins   >>>>>>>>-----------------   32.71 %
+TypeScript   2 hrs 2 mins    >>>>---------------------   17.65 %
+PHP          1 hr 29 mins    >>>----------------------   12.90 %
+JSON         1 hr 22 mins    >>>----------------------   12.00 %
+Docker       49 mins         >>-----------------------   07.09 %
 ```
 
 <!--END_SECTION:waka-->
