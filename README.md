@@ -44,11 +44,9 @@ I am a Highschool graduate with a passion for creating new things that could imp
 <!--START_SECTION:waka-->
 
 ```txt
-C++      2 hrs 27 mins   >>>>>>>>>>>>>>>>>>>>-----   81.17 %
-PHP      29 mins         >>>>---------------------   16.36 %
-Vue.js   2 mins          -------------------------   01.12 %
-Text     1 min           -------------------------   00.98 %
-CMake    0 secs          -------------------------   00.36 %
+PHP      29 mins         >>>>>>>>>>>>>>>>>>>>>----   82.16 %
+Svelte   5 mins          >>>>---------------------   14.75 %
+C++      1 min           >------------------------   03.08 %
 ```
 
 <!--END_SECTION:waka-->
