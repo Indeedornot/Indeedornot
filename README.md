@@ -44,11 +44,11 @@ I am a Highschool graduate with a passion for creating new things that could imp
 <!--START_SECTION:waka-->
 
 ```txt
-YAML         3 hrs 14 mins   >>>>>>-------------------   24.68 %
-PHP          2 hrs 53 mins   >>>>>>-------------------   22.00 %
-C++          2 hrs 32 mins   >>>>>--------------------   19.29 %
-JSON         1 hr 3 mins     >>-----------------------   08.05 %
-Vue.js       1 hr 1 min      >>-----------------------   07.82 %
+YAML         3 hrs 14 mins   >>>>>>-------------------   24.88 %
+PHP          2 hrs 53 mins   >>>>>>-------------------   22.18 %
+C++          2 hrs 32 mins   >>>>>--------------------   19.44 %
+JSON         1 hr 2 mins     >>-----------------------   07.99 %
+Vue.js       1 hr 1 min      >>-----------------------   07.88 %
 ```
 
 <!--END_SECTION:waka-->
