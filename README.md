@@ -44,11 +44,11 @@ I am a Highschool graduate with a passion for creating new things that could imp
 <!--START_SECTION:waka-->
 
 ```txt
-PHP          1 hr 32 mins    >>>>>>>>>>>>>------------   50.00 %
-YAML         53 mins         >>>>>>>------------------   29.07 %
-Bash         28 mins         >>>>---------------------   15.53 %
-Docker       5 mins          >------------------------   02.89 %
-JSON         4 mins          >------------------------   02.39 %
+PHP          1 hr 34 mins    >>>>>>>>>>>>>------------   50.48 %
+YAML         53 mins         >>>>>>>------------------   28.80 %
+Bash         28 mins         >>>>---------------------   15.38 %
+Docker       5 mins          >------------------------   02.86 %
+JSON         4 mins          >------------------------   02.37 %
 ```
 
 <!--END_SECTION:waka-->
