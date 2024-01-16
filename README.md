@@ -44,10 +44,11 @@ I am a Highschool graduate with a passion for creating new things that could imp
 <!--START_SECTION:waka-->
 
 ```txt
-C++     44 mins         >>>>>>>>>>>>>>>>>>>>>>---   88.79 %
-Text    3 mins          >>-----------------------   07.60 %
-PHP     1 min           >------------------------   03.57 %
-CMake   0 secs          -------------------------   00.03 %
+C++      1 hr 18 mins    >>>>>>>>>>>>>>>----------   61.24 %
+PHP      44 mins         >>>>>>>>>----------------   34.81 %
+Text     3 mins          >------------------------   02.98 %
+YAML     0 secs          -------------------------   00.51 %
+Bash     0 secs          -------------------------   00.25 %
 ```
 
 <!--END_SECTION:waka-->
