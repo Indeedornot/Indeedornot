@@ -1,6 +1,6 @@
 ## Hey 👋, I'm Indeed!
 
-I am a Highschool graduate with a passion for creating new things that could improve people's lives
+I am an IT student with a passion for creating new things that could improve mine and other people's lives
 
 <br/>
 
