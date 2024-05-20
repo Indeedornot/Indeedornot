@@ -44,11 +44,11 @@ I am an IT student with a passion for creating new things that could improve min
 <!--START_SECTION:waka-->
 
 ```txt
-Other        1 hr 30 mins    >>>>>>>>>>>--------------   43.13 %
-C++          51 mins         >>>>>>-------------------   24.47 %
-Vue.js       49 mins         >>>>>>-------------------   23.62 %
-TypeScript   13 mins         >>-----------------------   06.31 %
-Git Config   2 mins          -------------------------   01.27 %
+C++          51 mins         >>>>>>>>-----------------   30.64 %
+Vue.js       49 mins         >>>>>>>------------------   29.59 %
+Other        48 mins         >>>>>>>------------------   28.77 %
+TypeScript   13 mins         >>-----------------------   07.91 %
+Git Config   2 mins          -------------------------   01.59 %
 ```
 
 <!--END_SECTION:waka-->
