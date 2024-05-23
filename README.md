@@ -44,11 +44,9 @@ I am an IT student with a passion for creating new things that could improve min
 <!--START_SECTION:waka-->
 
 ```txt
-Vue.js       49 mins         >>>>>>>>>>>>>------------   51.26 %
-Python       19 mins         >>>>>--------------------   20.62 %
-TypeScript   13 mins         >>>----------------------   13.62 %
-C++          10 mins         >>>----------------------   10.70 %
-Git Config   2 mins          >------------------------   02.76 %
+Python       19 mins         >>>>>>>>>>>>>>>>>>>>>----   84.18 %
+TypeScript   2 mins          >>>----------------------   11.69 %
+Other        0 secs          >------------------------   04.14 %
 ```
 
 <!--END_SECTION:waka-->
