@@ -44,9 +44,7 @@ I am an IT student with a passion for creating new things that could improve min
 <!--START_SECTION:waka-->
 
 ```txt
-Python       19 mins         >>>>>>>>>>>>>>>>>>>>>----   84.18 %
-TypeScript   2 mins          >>>----------------------   11.69 %
-Other        0 secs          >------------------------   04.14 %
+Python   19 mins         >>>>>>>>>>>>>>>>>>>>>>>>>   100.00 %
 ```
 
 <!--END_SECTION:waka-->
