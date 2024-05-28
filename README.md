@@ -44,11 +44,11 @@ I am an IT student with a passion for creating new things that could improve min
 <!--START_SECTION:waka-->
 
 ```txt
-C++      59 mins         >>>>>>>>>>>--------------   44.93 %
-C        49 mins         >>>>>>>>>----------------   37.43 %
-Python   19 mins         >>>>---------------------   15.18 %
-CMake    2 mins          -------------------------   01.71 %
-JSON     0 secs          -------------------------   00.67 %
+Python   2 hrs 6 mins    >>>>>>>>>>>>>------------   52.44 %
+C++      1 hr            >>>>>>-------------------   25.16 %
+C        49 mins         >>>>>--------------------   20.42 %
+CMake    2 mins          -------------------------   00.93 %
+Text     1 min           -------------------------   00.48 %
 ```
 
 <!--END_SECTION:waka-->
