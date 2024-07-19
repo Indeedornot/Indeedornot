@@ -44,11 +44,11 @@ I am an IT student with a passion for creating new things that could improve min
 <!--START_SECTION:waka-->
 
 ```txt
-YAML                  4 hrs 56 mins   >>>>>>>>>>---------------   38.04 %
-TypeScript            3 hrs 58 mins   >>>>>>>>-----------------   30.60 %
-Docker                1 hr 59 mins    >>>>---------------------   15.40 %
-Other                 44 mins         >------------------------   05.67 %
-INI                   23 mins         >------------------------   03.01 %
+PHP                   5 hrs 3 mins    >>>>>>>------------------   26.21 %
+TypeScript            4 hrs 48 mins   >>>>>>-------------------   24.94 %
+YAML                  4 hrs 48 mins   >>>>>>-------------------   24.90 %
+Docker                1 hr 59 mins    >>>----------------------   10.30 %
+Other                 38 mins         >------------------------   03.35 %
 ```
 
 <!--END_SECTION:waka-->
