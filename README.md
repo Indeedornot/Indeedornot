@@ -44,7 +44,9 @@ I am an IT student with a passion for creating new things that could improve min
 <!--START_SECTION:waka-->
 
 ```txt
-PHP   23 mins         >>>>>>>>>>>>>>>>>>>>>>>>>   100.00 %
+JSON    4 mins          >>>>>>>>>>>>>>>>---------   65.95 %
+Other   2 mins          >>>>>>>------------------   27.61 %
+PHP     0 secs          >>-----------------------   06.44 %
 ```
 
 <!--END_SECTION:waka-->
