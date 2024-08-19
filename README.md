@@ -44,7 +44,7 @@ I am an IT student with a passion for creating new things that could improve min
 <!--START_SECTION:waka-->
 
 ```txt
-PHP   13 mins         >>>>>>>>>>>>>>>>>>>>>>>>>   100.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
