@@ -44,10 +44,11 @@ I am an IT student with a passion for creating new things that could improve min
 <!--START_SECTION:waka-->
 
 ```txt
-C++          2 hrs 58 mins   >>>>>>>>>>>>>>>>>>>>>>---   87.12 %
-PowerShell   25 mins         >>>----------------------   12.53 %
-JSON         0 secs          -------------------------   00.34 %
-Other        0 secs          -------------------------   00.01 %
+C++          6 hrs 52 mins   >>>>>>>>>>>>>>>>>>>>>>>--   93.34 %
+PowerShell   25 mins         >------------------------   05.80 %
+Other        2 mins          -------------------------   00.51 %
+Text         0 secs          -------------------------   00.19 %
+JSON         0 secs          -------------------------   00.16 %
 ```
 
 <!--END_SECTION:waka-->
