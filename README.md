@@ -44,9 +44,8 @@ I am an IT student with a passion for creating new things that could improve min
 <!--START_SECTION:waka-->
 
 ```txt
-C++     1 hr 53 mins    >>>>>>>>>>>>>>>>>>>>>>>>>   99.12 %
-Other   0 secs          -------------------------   00.80 %
-Text    0 secs          -------------------------   00.08 %
+C++     1 hr 9 mins     >>>>>>>>>>>>>>>>>>>>>>>>>   98.78 %
+Other   0 secs          -------------------------   01.22 %
 ```
 
 <!--END_SECTION:waka-->
