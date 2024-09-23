@@ -44,7 +44,11 @@ I am an IT student with a passion for creating new things that could improve min
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+PHP              15 mins         >>>>>>>>>----------------   36.25 %
+.env file        10 mins         >>>>>>-------------------   23.31 %
+Docker           4 mins          >>>----------------------   10.55 %
+Markdown         3 mins          >>-----------------------   08.70 %
+YAML             3 mins          >>-----------------------   08.47 %
 ```
 
 <!--END_SECTION:waka-->
