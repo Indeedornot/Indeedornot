@@ -44,11 +44,7 @@ I am an IT student with a passion for creating new things that could improve min
 <!--START_SECTION:waka-->
 
 ```txt
-INI                   33 mins         >>>>>>>>>----------------   37.47 %
-YAML                  18 mins         >>>>>--------------------   20.13 %
-.env file             17 mins         >>>>>--------------------   19.57 %
-PHP                   5 mins          >------------------------   05.84 %
-Caddyfile             4 mins          >------------------------   05.29 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
