@@ -44,9 +44,9 @@ I am an IT student with a passion for creating new things that could improve min
 <!--START_SECTION:waka-->
 
 ```txt
-PHP                 5 hrs 44 mins   >>>>>>>>>>>>>>-----------   57.98 %
-Twig                3 hrs 50 mins   >>>>>>>>>>---------------   38.82 %
-YAML                10 mins         -------------------------   01.75 %
+PHP                 6 hrs 27 mins   >>>>>>>>>>>>>>>>---------   64.87 %
+Twig                3 hrs 15 mins   >>>>>>>>-----------------   32.76 %
+YAML                6 mins          -------------------------   01.03 %
 Text                2 mins          -------------------------   00.46 %
 GitIgnore file      2 mins          -------------------------   00.40 %
 ```
