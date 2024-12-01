@@ -44,11 +44,11 @@ I am an IT student with a passion for creating new things that could improve min
 <!--START_SECTION:waka-->
 
 ```txt
-PHP                 4 hrs 34 mins   >>>>>>>>>>>--------------   43.99 %
-C++                 1 hr 18 mins    >>>----------------------   12.51 %
-Docker              37 mins         >------------------------   05.97 %
-CSV/TSV             33 mins         >------------------------   05.42 %
-YAML                28 mins         >------------------------   04.62 %
+PHP                 3 hrs 34 mins   >>>>>>>>>>---------------   39.82 %
+C++                 1 hr 18 mins    >>>>---------------------   14.47 %
+Docker              37 mins         >>-----------------------   06.88 %
+YAML                34 mins         >>-----------------------   06.33 %
+CSV/TSV             33 mins         >>-----------------------   06.27 %
 ```
 
 <!--END_SECTION:waka-->
