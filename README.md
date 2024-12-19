@@ -44,11 +44,10 @@ I am an IT student with a passion for creating new things that could improve min
 <!--START_SECTION:waka-->
 
 ```txt
-PHP          46 mins         >>>>>>>>>>>>>>>>---------   63.25 %
-YAML         22 mins         >>>>>>>>-----------------   30.83 %
-XML          2 mins          >------------------------   03.97 %
-Log          0 secs          -------------------------   00.61 %
-Markdown     0 secs          -------------------------   00.55 %
+PHP    10 mins         >>>>>>>>>>>>>>>>>>>>>>>>>   99.06 %
+YAML   0 secs          -------------------------   00.32 %
+Text   0 secs          -------------------------   00.32 %
+Bash   0 secs          -------------------------   00.30 %
 ```
 
 <!--END_SECTION:waka-->
