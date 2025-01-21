@@ -44,11 +44,11 @@ I am an IT student with a passion for creating new things that could improve min
 <!--START_SECTION:waka-->
 
 ```txt
-PHP                 16 hrs 49 mins  >>>>>>>>>>>>>>>>---------   65.45 %
-Twig                2 hrs 53 mins   >>>----------------------   11.24 %
-C++                 2 hrs 3 mins    >>-----------------------   08.03 %
-Markdown            58 mins         >------------------------   03.80 %
-YAML                40 mins         >------------------------   02.61 %
+PHP                 17 hrs 43 mins  >>>>>>>>>>>>>>>>---------   63.55 %
+C++                 2 hrs 45 mins   >>-----------------------   09.91 %
+Twig                2 hrs 23 mins   >>-----------------------   08.60 %
+Markdown            1 hr 31 mins    >------------------------   05.49 %
+YAML                53 mins         >------------------------   03.18 %
 ```
 
 <!--END_SECTION:waka-->
