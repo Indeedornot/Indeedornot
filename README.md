@@ -1,4 +1,4 @@
-## Hey 👋, I'm Indeed!
+<img src="https://github.com/Indeedornot/Indeedornot/blob/main/header.png" alt="Hi, I'm Indeed. Happy to meet you">
 
 I'm a Full-Stack Developer with a passion for building tools and applications that solve real-world problems. 
 
