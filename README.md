@@ -41,12 +41,6 @@ Outside of that I'm working on my bachelors in Computer Science during the weeke
 - **Refactoring Legacy Systems**: I’ve worked on modernizing old codebases, improving performance, and introducing better development practices. In some cases I've really had to dig in deep on the fail-safes needed to prevent the daily struggles associated with the systems used.
 - **Containerization & CI/CD**: I’ve set up Dockerized environments and GitLab pipelines to streamline development and deployment processes.
 
-
-### 📊 GitHub Stats
-
-[![Stats Overview](https://raw.githubusercontent.com/indeedornot/github-stats-transparent/output/generated/overview.svg)](https://github.com/indeedornot/github-stats-transparent)  
-[![Most Used Languages](https://raw.githubusercontent.com/indeedornot/github-stats-transparent/output/generated/languages.svg)](https://github.com/indeedornot/github-stats-transparent)  
-
 ---
 
 ### 📫 Let's Connect!
