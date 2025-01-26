@@ -1,44 +1,62 @@
 ## Hey 👋, I'm Indeed!
 
-I am an IT student with a passion for creating new things that could improve mine and other people's lives
+I'm a Full-Stack Developer with a passion for building tools and applications that solve real-world problems. 
 
-<br/>
+I'm an all-rounded full-stack development with a bit of devops sprinkled in.
+<br>I thrive in old legacy codebases, digging through all the old code, and exploring modern frameworks to create scalable user-friendly solutions which will prevent the issues from the past 😉
 
-### 🔨 Languages and Tools:
-<a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank"> 
-  <img src="https://raw.githubusercontent.com/Indeedornot/README_icons/4d06112f039d3d302017842f696129642a58f6a5/language_and_tools/square/c%23/c%23.svg" align="left" alt="csharp" height='42px'/> 
-</a>
-<a href="https://learn.microsoft.com/en-us/aspnet/core/?view=aspnetcore-7.0" target="_blank">
-  <image src="https://raw.githubusercontent.com/Indeedornot/README_icons/2cc2c6a6d95f2142441267c6f44467ed1c9224cf/language_and_tools/square/asp.net-core/asp.net-core.svg" width="42px" height="42px" align="left" />
-</a>
-<a href="https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor" target="_blank"> 
-  <image src="https://raw.githubusercontent.com/Indeedornot/README_icons/2cc2c6a6d95f2142441267c6f44467ed1c9224cf/language_and_tools/square/blazor/blazor.svg" width="76px" height="42px" align="left" />
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-  <img align="left" alt="JavaScript" height ="42px"  src="https://raw.githubusercontent.com/Indeedornot/README_icons/4d06112f039d3d302017842f696129642a58f6a5/language_and_tools/square/javascript/javascript.svg"> 
-</a>
-<a href="https://www.typescriptlang.org/" target="_blank">
-  <img align="left" alt="Typescirpt" height ="42px" src="https://raw.githubusercontent.com/Indeedornot/README_icons/4d06112f039d3d302017842f696129642a58f6a5/language_and_tools/square/typescript/typescript.svg">
-</a>
-<a hef="https://reactjs.org/" target="_blank">
-  <img src="https://raw.githubusercontent.com/Indeedornot/README_icons/3454466b1b34e42f17c5104d222219c9485129b7/language_and_tools/square/react/react.svg" align="left" alt="React" height="42px"/>
-</a>
-<a href="https://svelte.dev/" target="_blank">
-  <img align="left" alt="Svelte" height="42px" src="https://raw.githubusercontent.com/Indeedornot/README_icons/4d06112f039d3d302017842f696129642a58f6a5/language_and_tools/square/svelte/svelte.svg">
-</a>
-<a href="https://tailwindcss.com/" target="_blank">
-  <img align="left" alt="Tailwindcss" height="42px" src="https://raw.githubusercontent.com/Indeedornot/README_icons/3454466b1b34e42f17c5104d222219c9485129b7/language_and_tools/square/tailwindcss/tailwindcss.svg"/>
-</a>
-<a href="https://git-scm.com/" target="_blank"> 
-  <img src="https://raw.githubusercontent.com/Indeedornot/README_icons/4d06112f039d3d302017842f696129642a58f6a5/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> 
-</a>
-<a hef="https://www.sqlite.org/index.html" target="_blank">
-  <img src="https://raw.githubusercontent.com/Indeedornot/README_icons/3454466b1b34e42f17c5104d222219c9485129b7/language_and_tools/square/sqlite/sqlite.svg" align="left" alt="Sqlite" height="42px"/>
-</a>
+Outside of that I'm working on my bachelors in Computer Science during the weekends.
 
-<br/>
-<br/>
-<br/>
+---
+
+### 🛠️ Tech Stack
+
+#### **Languages**
+![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white)
+
+#### **Frameworks & Libraries**
+![ASP.NET Core](https://img.shields.io/badge/-ASP.NET%20Core-512BD4?logo=.net&logoColor=white)
+![Symfony](https://img.shields.io/badge/-Symfony-000000?logo=symfony&logoColor=white)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white)
+
+#### **Tools & Platforms**
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
+![GitLab](https://img.shields.io/badge/-GitLab-FCA121?logo=gitlab&logoColor=white)
+
+---
+
+### 🚀 What I Do
+
+- **Building Scalable Web Apps**: I enjoy creating full-stack applications using modern frameworks, currently more with Symfony, however I do have my share of experience with other frameworks like ASP.NET Core and Vue.js. I also did a dive into React and Angular as a learning oppurtunity,
+- **Refactoring Legacy Systems**: I’ve worked on modernizing old codebases, improving performance, and introducing better development practices. In some cases I've really had to dig in deep on the fail-safes needed to prevent the daily struggles associated with the systems used.
+- **Containerization & CI/CD**: I’ve set up Dockerized environments and GitLab pipelines to streamline development and deployment processes.
+
+
+### 📊 GitHub Stats
+
+[![Stats Overview](https://raw.githubusercontent.com/indeedornot/github-stats-transparent/output/generated/overview.svg)](https://github.com/indeedornot/github-stats-transparent)  
+[![Most Used Languages](https://raw.githubusercontent.com/indeedornot/github-stats-transparent/output/generated/languages.svg)](https://github.com/indeedornot/github-stats-transparent)  
+
+---
+
+### 📫 Let's Connect!
+I’m always open to collaborating on interesting projects or discussing tech. 
+<br><b>Feel free to reach out!  </b>
+
+[![Email](https://img.shields.io/badge/Email-gravitybarek%gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:indeed@example.com)  
+[![Discord](https://img.shields.io/badge/Discord-CaughtInDeed-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/YourDiscordID)
+
+---
 
 ### 💻 What I've been up to this week
 <!--START_SECTION:waka-->
@@ -53,8 +71,6 @@ Docker              38 mins         >------------------------   04.08 %
 
 <!--END_SECTION:waka-->
 
-<br/>
-
 ### 📊 Github Stats
 <a href='https://github.com/indeedornot/github-stats-transparent'>
   
@@ -62,3 +78,7 @@ Docker              38 mins         >------------------------   04.08 %
 ![Most Used Languages](https://raw.githubusercontent.com/indeedornot/github-stats-transparent/output/generated/languages.svg)
 
 </a>
+
+
+---- 
+⭐️ From [Indeed](https://github.com/Indeedornot)
