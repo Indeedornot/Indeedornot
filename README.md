@@ -53,8 +53,8 @@ Outside of that I'm working on my bachelors in Computer Science during the weeke
 I’m always open to collaborating on interesting projects or discussing tech. 
 <br><b>Feel free to reach out!  </b>
 
-[![Email](https://img.shields.io/badge/Email-gravitybarek%gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:indeed@example.com)  
-[![Discord](https://img.shields.io/badge/Discord-CaughtInDeed-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/YourDiscordID)
+[![Email](https://img.shields.io/badge/Email-gravitybarek%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gravitybartek@gmail.com)  
+![Discord](https://img.shields.io/badge/Discord-CaughtInDeed-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 
 ---
 
