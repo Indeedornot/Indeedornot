@@ -56,11 +56,11 @@ I’m always open to collaborating on interesting projects or discussing tech.
 <!--START_SECTION:waka-->
 
 ```txt
-C++                 10 hrs 22 mins  >>>>>>>>>>>>>>>>>>-------   71.68 %
-C#                  1 hr 22 mins    >>-----------------------   09.44 %
-C/C                 35 mins         >------------------------   04.08 %
-Docker              27 mins         >------------------------   03.21 %
-Text                25 mins         >------------------------   02.88 %
+C++                 8 hrs 9 mins    >>>>>>>>>>>>>>>>>--------   66.63 %
+C#                  1 hr 22 mins    >>>----------------------   11.17 %
+C/C                 35 mins         >------------------------   04.81 %
+Docker              27 mins         >------------------------   03.79 %
+Text                25 mins         >------------------------   03.41 %
 ```
 
 <!--END_SECTION:waka-->
