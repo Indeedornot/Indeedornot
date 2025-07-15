@@ -56,11 +56,8 @@ I’m always open to collaborating on interesting projects or discussing tech.
 <!--START_SECTION:waka-->
 
 ```txt
-PHP          1 hr 6 mins     >>>>>>>>-----------------   32.30 %
-C#           1 hr 2 mins     >>>>>>>>-----------------   30.17 %
-TypeScript   54 mins         >>>>>>>------------------   26.31 %
-Markdown     12 mins         >>-----------------------   06.16 %
-TSConfig     2 mins          -------------------------   01.42 %
+PHP    17 mins         >>>>>>>>>>>>>>>>>>>>>>>--   90.15 %
+Twig   1 min           >>-----------------------   09.85 %
 ```
 
 <!--END_SECTION:waka-->
