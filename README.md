@@ -56,11 +56,7 @@ I’m always open to collaborating on interesting projects or discussing tech.
 <!--START_SECTION:waka-->
 
 ```txt
-PHP            20 mins         >>>>>>>>>>>>>>>>>>>>-----   79.43 %
-Twig           4 mins          >>>>>--------------------   18.37 %
-SmartyConfig   0 secs          -------------------------   00.74 %
-Docker         0 secs          -------------------------   00.70 %
-YAML           0 secs          -------------------------   00.23 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
