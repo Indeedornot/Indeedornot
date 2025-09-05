@@ -56,8 +56,8 @@ I’m always open to collaborating on interesting projects or discussing tech.
 <!--START_SECTION:waka-->
 
 ```txt
-PHP    3 mins          >>>>>>>>>>>>>>-----------   55.47 %
-Twig   3 mins          >>>>>>>>>>>--------------   44.53 %
+Twig   0 secs          >>>>>>>>>>>>>>>----------   58.10 %
+PHP    0 secs          >>>>>>>>>>---------------   41.90 %
 ```
 
 <!--END_SECTION:waka-->
