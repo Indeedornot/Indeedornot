@@ -56,8 +56,7 @@ I’m always open to collaborating on interesting projects or discussing tech.
 <!--START_SECTION:waka-->
 
 ```txt
-Twig   0 secs          >>>>>>>>>>>>>>>----------   58.10 %
-PHP    0 secs          >>>>>>>>>>---------------   41.90 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
