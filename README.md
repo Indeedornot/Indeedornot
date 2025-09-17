@@ -56,10 +56,7 @@ I’m always open to collaborating on interesting projects or discussing tech.
 <!--START_SECTION:waka-->
 
 ```txt
-C#           0 secs          >>>>>>>>>>>>>>>>>>-------   71.80 %
-JavaScript   0 secs          >>>----------------------   12.29 %
-Text         0 secs          >>-----------------------   08.64 %
-JSON         0 secs          >>-----------------------   07.27 %
+PHP   15 mins         >>>>>>>>>>>>>>>>>>>>>>>>>   100.00 %
 ```
 
 <!--END_SECTION:waka-->
