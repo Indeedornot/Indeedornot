@@ -56,11 +56,11 @@ I’m always open to collaborating on interesting projects or discussing tech.
 <!--START_SECTION:waka-->
 
 ```txt
-Vue.js      7 mins          >>>>>>>>>>>>>>>>>--------   67.07 %
-Bash        1 min           >>>>---------------------   15.48 %
-.env file   1 min           >>-----------------------   09.62 %
-PHP         0 secs          >>-----------------------   07.75 %
-JSON        0 secs          -------------------------   00.06 %
+C#                1 hr 46 mins    >>>>>>>>>>>>>>>>>>>>-----   80.03 %
+Svelte            10 mins         >>-----------------------   08.20 %
+Vue.js            8 mins          >>-----------------------   06.03 %
+PHP               3 mins          >------------------------   02.39 %
+Bash              1 min           -------------------------   01.31 %
 ```
 
 <!--END_SECTION:waka-->
