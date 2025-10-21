@@ -56,11 +56,11 @@ I’m always open to collaborating on interesting projects or discussing tech.
 <!--START_SECTION:waka-->
 
 ```txt
-C#                     5 hrs 7 mins    >>>>>>>>>>>>>>>>---------   63.79 %
-SQL                    1 hr            >>>----------------------   12.55 %
-Python                 40 mins         >>-----------------------   08.51 %
-Markdown               21 mins         >------------------------   04.40 %
-Other                  10 mins         >------------------------   02.28 %
+C#                     6 hrs 57 mins   >>>>>>>>>>>>>>>>>>>------   74.70 %
+SQL                    1 hr            >>>----------------------   10.82 %
+Python                 40 mins         >>-----------------------   07.34 %
+Other                  10 mins         -------------------------   01.97 %
+Vue.js                 8 mins          -------------------------   01.61 %
 ```
 
 <!--END_SECTION:waka-->
