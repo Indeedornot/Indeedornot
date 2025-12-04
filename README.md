@@ -56,11 +56,11 @@ I’m always open to collaborating on interesting projects or discussing tech.
 <!--START_SECTION:waka-->
 
 ```txt
-C++              2 hrs 29 mins   >>>>>>>>>>>>>>>----------   58.65 %
-TypeScript       48 mins         >>>>>--------------------   19.03 %
-Vue.js           26 mins         >>>----------------------   10.29 %
-PHP              12 mins         >------------------------   05.07 %
-Text             7 mins          >------------------------   02.81 %
+C++              2 hrs 29 mins   >>>>>>>>>>>>>>>>>>>>-----   79.54 %
+TypeScript       14 mins         >>-----------------------   07.93 %
+Text             7 mins          >------------------------   03.81 %
+Vue.js           5 mins          >------------------------   03.06 %
+C/C              4 mins          >------------------------   02.24 %
 ```
 
 <!--END_SECTION:waka-->
