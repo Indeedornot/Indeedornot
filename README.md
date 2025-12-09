@@ -56,11 +56,8 @@ I’m always open to collaborating on interesting projects or discussing tech.
 <!--START_SECTION:waka-->
 
 ```txt
-Python           2 hrs 43 mins   >>>>>>>>>>>>-------------   49.11 %
-C++              2 hrs 29 mins   >>>>>>>>>>>--------------   45.10 %
-Text             7 mins          >------------------------   02.16 %
-C/C              4 mins          -------------------------   01.27 %
-Other            3 mins          -------------------------   01.19 %
+Python   2 hrs 43 mins   >>>>>>>>>>>>>>>>>>>>>>>>>   99.56 %
+Other    0 secs          -------------------------   00.44 %
 ```
 
 <!--END_SECTION:waka-->
