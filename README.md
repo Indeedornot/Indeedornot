@@ -56,11 +56,11 @@ I’m always open to collaborating on interesting projects or discussing tech.
 <!--START_SECTION:waka-->
 
 ```txt
-C#                  1 hr 10 mins    >>>>>>>>>>>>>>>>---------   63.39 %
-Markdown            22 mins         >>>>>--------------------   20.04 %
-JSON                9 mins          >>-----------------------   08.68 %
-Csproj              5 mins          >------------------------   04.63 %
-Other               2 mins          -------------------------   01.81 %
+C#                  38 mins         >>>>>>>>>>---------------   40.80 %
+Markdown            22 mins         >>>>>>-------------------   23.28 %
+Other               16 mins         >>>>---------------------   17.41 %
+JSON                9 mins          >>>----------------------   10.08 %
+Csproj              5 mins          >------------------------   05.37 %
 ```
 
 <!--END_SECTION:waka-->
