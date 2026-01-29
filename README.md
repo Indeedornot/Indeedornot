@@ -56,11 +56,11 @@ I’m always open to collaborating on interesting projects or discussing tech.
 <!--START_SECTION:waka-->
 
 ```txt
-Python              27 mins         >>>>>>>>>----------------   36.37 %
-C#                  20 mins         >>>>>>>------------------   27.74 %
-Other               16 mins         >>>>>>-------------------   22.31 %
-Markdown            4 mins          >>-----------------------   06.68 %
-CSV                 2 mins          >------------------------   02.77 %
+Python              27 mins         >>>>>>>>>>>>>>>----------   58.96 %
+Other               16 mins         >>>>>>>>>----------------   36.17 %
+CSV                 2 mins          >------------------------   04.49 %
+C#                  0 secs          -------------------------   00.21 %
+Markdown            0 secs          -------------------------   00.15 %
 ```
 
 <!--END_SECTION:waka-->
