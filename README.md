@@ -56,8 +56,8 @@ I’m always open to collaborating on interesting projects or discussing tech.
 <!--START_SECTION:waka-->
 
 ```txt
-Python   25 mins         >>>>>>>>>>>>>>>>>>>>>>>--   92.54 %
-CSV      2 mins          >>-----------------------   07.46 %
+TypeScript   15 mins         >>>>>>>>>>>>>>>>>>>>>>>>>   98.17 %
+PHP          0 secs          -------------------------   01.83 %
 ```
 
 <!--END_SECTION:waka-->
