@@ -56,9 +56,9 @@ I’m always open to collaborating on interesting projects or discussing tech.
 <!--START_SECTION:waka-->
 
 ```txt
-PHP          19 mins         >>>>>>>>>>>>>>>>>>>>>>>>>   99.99 %
-TypeScript   0 secs          -------------------------   00.00 %
-.env file    0 secs          -------------------------   00.00 %
+PHP          19 mins               >>>>>>>>>>>>>>>>>>>>>>>>>   99.99 %
+TypeScript   0 secs                -------------------------   00.00 %
+.env file    0 secs                -------------------------   00.00 %
 ```
 
 <!--END_SECTION:waka-->
