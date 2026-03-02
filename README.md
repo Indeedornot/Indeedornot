@@ -56,11 +56,11 @@ I’m always open to collaborating on interesting projects or discussing tech.
 <!--START_SECTION:waka-->
 
 ```txt
-Docker              47 mins               >>>>>>>>>>>>-------------   47.81 %
-PHP                 18 mins               >>>>>--------------------   18.46 %
-SQL                 9 mins                >>-----------------------   09.69 %
-C#                  6 mins                >>-----------------------   06.95 %
-Caddyfile           5 mins                >------------------------   05.67 %
+TypeScript          3 hrs 45 mins         >>>>>>>>>----------------   36.83 %
+PHP                 2 hrs 16 mins         >>>>>>-------------------   22.28 %
+Java                1 hr 11 mins          >>>----------------------   11.60 %
+Vue.js              47 mins               >>-----------------------   07.68 %
+Python              29 mins               >------------------------   04.75 %
 ```
 
 <!--END_SECTION:waka-->
