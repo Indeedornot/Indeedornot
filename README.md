@@ -56,10 +56,11 @@ I’m always open to collaborating on interesting projects or discussing tech.
 <!--START_SECTION:waka-->
 
 ```txt
-PHP          0 secs                >>>>>>>>>>>>>>>>>>>>>>>>>   98.03 %
-.env file    0 secs                -------------------------   01.19 %
-XML          0 secs                -------------------------   00.75 %
-TypeScript   0 secs                -------------------------   00.03 %
+PHP          18 mins               >>>>>>>>>>>--------------   43.89 %
+Vue.js       13 mins               >>>>>>>>-----------------   30.79 %
+JSON         7 mins                >>>>---------------------   17.49 %
+Markdown     2 mins                >>-----------------------   06.21 %
+TypeScript   0 secs                -------------------------   01.62 %
 ```
 
 <!--END_SECTION:waka-->
