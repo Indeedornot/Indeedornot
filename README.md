@@ -56,11 +56,11 @@ I’m always open to collaborating on interesting projects or discussing tech.
 <!--START_SECTION:waka-->
 
 ```txt
-Vue              49 mins               >>>>>--------------------   20.04 %
-YAML             43 mins               >>>>---------------------   17.65 %
-PHP              30 mins               >>>----------------------   12.46 %
-RobotFramework   25 mins               >>>----------------------   10.61 %
-Bash             25 mins               >>>----------------------   10.44 %
+YAML             2 hrs 42 mins         >>>>>>>>>----------------   35.08 %
+Vue              1 hr 6 mins           >>>>---------------------   14.39 %
+Bash             50 mins               >>>----------------------   10.93 %
+PHP              50 mins               >>>----------------------   10.93 %
+TypeScript       34 mins               >>-----------------------   07.36 %
 ```
 
 <!--END_SECTION:waka-->
