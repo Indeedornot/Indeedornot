@@ -56,11 +56,11 @@ I’m always open to collaborating on interesting projects or discussing tech.
 <!--START_SECTION:waka-->
 
 ```txt
-YAML         2 hrs 39 mins         >>>>>>>>>----------------   37.53 %
-Vue          1 hr 6 mins           >>>>---------------------   15.68 %
-PHP          50 mins               >>>----------------------   11.91 %
-Bash         37 mins               >>-----------------------   08.75 %
-TypeScript   34 mins               >>-----------------------   08.02 %
+YAML            5 hrs 3 mins          >>>>>>>>>>---------------   39.73 %
+TypeScript      2 hrs 29 mins         >>>>>--------------------   19.56 %
+PHP             1 hr 46 mins          >>>>---------------------   14.01 %
+Other           1 hr 1 min            >>-----------------------   08.08 %
+Vue             48 mins               >>-----------------------   06.29 %
 ```
 
 <!--END_SECTION:waka-->
