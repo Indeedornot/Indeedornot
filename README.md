@@ -56,11 +56,7 @@ I’m always open to collaborating on interesting projects or discussing tech.
 <!--START_SECTION:waka-->
 
 ```txt
-PHP          1 hr 10 mins          >>>>>>>>>>>>>>>>>>-------   72.45 %
-Vue          16 mins               >>>>---------------------   17.01 %
-TypeScript   4 mins                >------------------------   04.11 %
-Bash         3 mins                >------------------------   03.08 %
-Other        2 mins                >------------------------   02.77 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
