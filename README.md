@@ -56,7 +56,11 @@ I’m always open to collaborating on interesting projects or discussing tech.
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+PHP          1 hr 51 mins          >>>>>>>>>>---------------   39.24 %
+C++          1 hr 48 mins          >>>>>>>>>>---------------   38.06 %
+Other        16 mins               >------------------------   05.81 %
+Markdown     14 mins               >------------------------   05.14 %
+C/C          12 mins               >------------------------   04.25 %
 ```
 
 <!--END_SECTION:waka-->
