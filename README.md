@@ -56,11 +56,11 @@ I’m always open to collaborating on interesting projects or discussing tech.
 <!--START_SECTION:waka-->
 
 ```txt
-C#               7 hrs 46 mins         >>>>>>>>-----------------   33.06 %
-PHP              5 hrs 5 mins          >>>>>--------------------   21.63 %
-TypeScript       3 hrs 5 mins          >>>----------------------   13.13 %
-Kotlin           2 hrs 26 mins         >>>----------------------   10.41 %
-Markdown         35 mins               >------------------------   02.48 %
+PHP             6 hrs 58 mins         >>>>>>>------------------   27.49 %
+C#              5 hrs 24 mins         >>>>>--------------------   21.29 %
+TypeScript      4 hrs 4 mins          >>>>---------------------   16.07 %
+Kotlin          2 hrs 23 mins         >>-----------------------   09.41 %
+Markdown        1 hr 44 mins          >>-----------------------   06.87 %
 ```
 
 <!--END_SECTION:waka-->
