@@ -56,11 +56,11 @@ I’m always open to collaborating on interesting projects or discussing tech.
 <!--START_SECTION:waka-->
 
 ```txt
-C#           2 hrs 56 mins         >>>>>>>>>>---------------   39.74 %
-XML          1 hr 14 mins          >>>>---------------------   16.65 %
-YAML         1 hr 5 mins           >>>>---------------------   14.80 %
-Markdown     56 mins               >>>----------------------   12.66 %
-Git Config   27 mins               >>-----------------------   06.27 %
+C#                4 hrs 25 mins         >>>>>>>------------------   29.64 %
+YAML              3 hrs 19 mins         >>>>>>-------------------   22.35 %
+Markdown          1 hr 53 mins          >>>----------------------   12.71 %
+Python            1 hr 25 mins          >>-----------------------   09.61 %
+XML               57 mins               >>-----------------------   06.42 %
 ```
 
 <!--END_SECTION:waka-->
