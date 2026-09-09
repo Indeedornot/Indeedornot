@@ -56,11 +56,7 @@ I’m always open to collaborating on interesting projects or discussing tech.
 <!--START_SECTION:waka-->
 
 ```txt
-PHP          23 mins               >>>>>>>>>>>>>>>>>>>>-----   80.95 %
-Markdown     2 mins                >>-----------------------   08.12 %
-Other        1 min                 >------------------------   05.00 %
-Bash         1 min                 >------------------------   04.90 %
-Git Config   0 secs                -------------------------   00.78 %
+Markdown   3 mins                >>>>>>>>>>>>>>>>>>>>>>>>>   100.00 %
 ```
 
 <!--END_SECTION:waka-->
