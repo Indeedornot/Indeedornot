@@ -56,8 +56,7 @@ I’m always open to collaborating on interesting projects or discussing tech.
 <!--START_SECTION:waka-->
 
 ```txt
-PHP      8 mins                >>>>>>>>>>>>>>>>>>>>-----   79.71 %
-Kotlin   2 mins                >>>>>--------------------   20.29 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
