@@ -56,11 +56,11 @@ I’m always open to collaborating on interesting projects or discussing tech.
 <!--START_SECTION:waka-->
 
 ```txt
-Kotlin            1 hr 27 mins          >>>>>>>------------------   28.80 %
-YAML              53 mins               >>>>---------------------   17.72 %
-Markdown          45 mins               >>>>---------------------   15.00 %
-Other             28 mins               >>-----------------------   09.30 %
-C#                22 mins               >>-----------------------   07.47 %
+Kotlin            1 hr 32 mins          >>>>>>>>>>>--------------   44.58 %
+Markdown          45 mins               >>>>>>-------------------   22.06 %
+Other             24 mins               >>>----------------------   11.74 %
+Python            12 mins               >------------------------   05.86 %
+HTML              11 mins               >------------------------   05.61 %
 ```
 
 <!--END_SECTION:waka-->
