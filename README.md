@@ -56,11 +56,11 @@ I’m always open to collaborating on interesting projects or discussing tech.
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   29 mins               >>>>>--------------------   18.29 %
-TypeScript   29 mins               >>>>>--------------------   18.03 %
-XML          26 mins               >>>>---------------------   16.00 %
-C#           25 mins               >>>>---------------------   15.45 %
-Python       14 mins               >>-----------------------   08.70 %
+TypeScript   29 mins               >>>>>>>------------------   29.28 %
+XML          26 mins               >>>>>>-------------------   25.98 %
+C#           25 mins               >>>>>>-------------------   25.08 %
+D2           9 mins                >>-----------------------   09.64 %
+SCSS         4 mins                >------------------------   04.58 %
 ```
 
 <!--END_SECTION:waka-->
